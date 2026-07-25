@@ -10,5 +10,18 @@
       "programming",
       "code-tools"
     ]
+  },
+  {
+    "title": "Browser-Side PDF Processing: How WebAssembly Makes Privacy-First Document Tools Possible",
+    "slug": "browser-side-pdf-processing-how-webassembly-makes-privacy-fi",
+    "date": "2026-07-25",
+    "description": "Deep dive into how modern browser-based PDF tools use WebAssembly and PDF.js to process documents locally without uploading files, and why this architecture matters for privacy.",
+    "tags": [
+      "pdf",
+      "webassembly",
+      "privacy",
+      "browser-tools",
+      "document-processing"
+    ]
   }
 ]
