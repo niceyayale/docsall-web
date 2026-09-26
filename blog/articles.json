@@ -23,5 +23,17 @@
       "browser-tools",
       "document-processing"
     ]
+  },
+  {
+    "title": "Implementing Modern Documentation Search for Developer Portals",
+    "slug": "implementing-modern-documentation-search-for-developer-porta",
+    "date": "2026-09-26",
+    "description": "",
+    "tags": [
+      "documentation",
+      "searchengines",
+      "systemarchitecture",
+      "developerexperience"
+    ]
   }
 ]
